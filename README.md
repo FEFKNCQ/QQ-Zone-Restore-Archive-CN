@@ -4,7 +4,7 @@
 >
 > **夸克网盘**：https://pan.quark.cn/s/c87b0d85fb2c
 >
-> 也可在 [本仓库 Releases](https://github.com/FEFKNCQ/QQ-Zone-Restore-Archive/releases) 下载。
+> 也可在 [本仓库 Releases](https://github.com/FEFKNCQ/QQ-Zone-Restore-Archive-CN/releases) 下载。
 
 
 <details style="display:none">
